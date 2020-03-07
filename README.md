@@ -1,2 +1,3 @@
-# podcast.alemayhu.com
+# The Pod
+
 A podcast about my journey
